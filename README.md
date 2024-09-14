@@ -19,7 +19,7 @@
 
 <p>
  
- ![My Skills](https://skillicons.dev/icons?i=c,cpp,css,docker,firebase,git,github,html,js,materialui,mongodb,postgres,py,react,aws,azure,bash,gcp,ipfs,kubernetes,linux,mysql,ubuntu,vite,figma,wordpress)
+ ![My Skills](https://skillicons.dev/icons?i=c,cpp,css,docker,firebase,git,github,html,js,materialui,mongodb,postgres,py,react,aws,azure,bash,gcp,ipfs,kubernetes,linux,mysql,ubuntu,vite,figma,wordpress,java)
  
 </p>
 
