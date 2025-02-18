@@ -1,6 +1,4 @@
-
-![poonawala2303@gmail com](https://github.com/poonawala2303/poonawala2303/assets/77799091/ccc69059-1a56-46d2-986b-7b2ad8d67968)
-
+![poonawala2303@gmail com (1)](https://github.com/user-attachments/assets/7184302e-4a82-4c12-90fa-6fbc67df7519)
 
 
 <p>
@@ -23,7 +21,7 @@
 ## Hello there! I am <a href="https://www.arya-nair.in/" target="_blank">Mustafa Poonawala</a>  
 
 <ul>
-  <li>I am a Self-Taught Programmer, Cyber Security Analyst, and an Ethical Hacker</li>
+  <li>I am a Self-Taught Programmer, Software Developer and a Cyber Security Analyst</li>
   <li>I like to work on stuff that interests me a lot.</li>
   <li>Connect with me if you have something interesting to say and collaborate with</li>
 </ul>
