@@ -11,15 +11,11 @@
 </p>
 <hr/>
 
-## TryHackMe
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/mustafa.ap.png" alt="TryHackMe">
-
 ## Technology I worked with
 
 <p>
  
- ![My Skills](https://skillicons.dev/icons?i=c,cpp,css,docker,firebase,git,github,html,js,materialui,mongodb,postgres,py,react,aws,azure,bash,gcp,ipfs,kubernetes,linux,mysql,ubuntu,vite,figma,wordpress,java)
+ ![My Skills](https://skillicons.dev/icons?i=java,cpp,css,docker,firebase,git,github,html,js,materialui,bootstrap,mongodb,postgres,py,react,aws,gcp,kubernetes,linux,mysql,ubuntu,vite,figma)
  
 </p>
 
