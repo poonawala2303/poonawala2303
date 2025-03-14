@@ -9,15 +9,6 @@
 </p>
 <hr/>
 
-## Technology I worked with
-
-<p>
- 
- ![My Skills](https://skillicons.dev/icons?i=java,cpp,css,docker,firebase,git,github,html,js,materialui,bootstrap,mongodb,postgres,py,react,aws,gcp,kubernetes,linux,mysql,ubuntu,vite,figma)
- 
-</p>
-
-
 ## Hello there! I am <a href="https://www.arya-nair.in/" target="_blank">Mustafa Poonawala</a>  
 
 <ul>
@@ -26,6 +17,14 @@
   <li>Connect with me if you have something interesting to say and collaborate with</li>
 </ul>
 <div style="display:flex;flex-direction:row">
+
+## Technology I worked with
+
+<p>
+ 
+ ![My Skills](https://skillicons.dev/icons?i=java,spring,cpp,css,docker,firebase,git,github,html,js,materialui,bootstrap,mongodb,postgres,py,react,aws,gcp,kubernetes,linux,mysql,ubuntu,vite,figma)
+ 
+</p>
 
 <!---[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=poonawala2303&theme=react)](https://git.io/streak-stats) --->
 <div align="center">
