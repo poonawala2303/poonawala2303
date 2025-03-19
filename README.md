@@ -9,7 +9,7 @@
 </p>
 <hr/>
 
-## Hello there! I am <a href="https://www.arya-nair.in/" target="_blank">Mustafa Poonawala</a>  
+## Hello there! I am Mustafa Poonawala 
 
 <ul>
   <li>I am a Self-Taught Programmer, Software Developer and a Cyber Security Analyst</li>
